@@ -1,6 +1,6 @@
 ### Hi there 👋
-### ⚡ C++, C#, C, JAVA, HTML, CSS, JS
-### ⚡ ThreeJS, VueJs, ReactJs, NodeJs
+### ⚡ C++, C#, C, JAVA, HTML, JS
+### ⚡ ThreeJS, VueJs, ReactJs, NodeJs, Bootstrap
 <!--
 **Neaxic/neaxic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
