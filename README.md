@@ -1,5 +1,7 @@
 
 ### ⚡ Upload everyday gang
+
+## 🔭 Web3 & Smart contracts
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neaxic)](https://github.com/anuraghazra/github-readme-stats)
 
