@@ -1,4 +1,3 @@
-.
 ### ⚡ Upload everyday gang
 
 ## 🔭 Blockchain, Web3 & Smart contracts
