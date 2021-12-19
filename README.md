@@ -1,4 +1,4 @@
-### ⚡ Upload everyday gang, get smart & rich.
+### ⚡ Upload everyday gang, get smart & rich..
 
 ## 🔭 BLOCKCHAIN, WEB3, CONTRACTS, SOLIDITY
 <!--
