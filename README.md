@@ -1,4 +1,4 @@
-### ⚡ Upload everyday gang..
+### ⚡ Upload everyday gang.
 
 ## 🔭 BLOCKCHAIN, WEB3, CONTRACTS, SOLIDITY
 <!--
