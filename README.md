@@ -1,5 +1,3 @@
-### ⚡ Upload everyday gang..
-
 ## 🔭 BLOCKCHAIN, WEB3, CONTRACTS, SOLIDITY
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neaxic)](https://github.com/anuraghazra/github-readme-stats)
