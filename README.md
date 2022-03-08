@@ -1,4 +1,5 @@
-## 🔭 BLOCKCHAIN, WEB3, CONTRACTS, SOLIDITY.
+## 🔭 WEB3, CONTRACTS, SOLIDITY.
+## 🕵️‍♂️ WWW.JAVEL.DK & WWW.APECODE.IO
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neaxic)](https://github.com/anuraghazra/github-readme-stats)
 
