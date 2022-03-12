@@ -1,5 +1,9 @@
-## 🔭 WEB3, CONTRACTS, SOLIDITY
-### 🕵️‍♂️ WWW.JAVEL.DK & WWW.APECODE.IO
+
+# 🖐 Yo
+### 🔭 I'm currently learning more about web3, contracts & solidity
+### 🌏 Mainly focused on backend development
+### 📫 Current websites www.javel.dk & www.apecode.io
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neaxic)](https://github.com/anuraghazra/github-readme-stats)
 
