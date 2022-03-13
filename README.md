@@ -1,5 +1,5 @@
 
-# 🖐 Yo
+# 🖐 Yo gamr
 ### 🔭 I'm currently learning more about web3, contracts & solidity
 ### 🌏 Mainly focused on backend development
 ### 📫 Current websites www.javel.dk & www.apecode.io
