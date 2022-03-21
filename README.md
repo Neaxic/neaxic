@@ -1,5 +1,5 @@
 
-# 🖐 Yo 
+# 🖐 Yo .
 ### 🔭 I'm currently learning more about web3, contracts & solidity
 ### 🌏 Mainly focused on backend development - and finding a place in web3
 ### 📫 Current websites www.javel.dk & www.apecode.io
