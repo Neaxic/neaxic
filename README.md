@@ -7,6 +7,4 @@
 
 
 _The text under is automatically updated from a script i wrote for fun_
-```
-This file was lastly modified by a Python automator script
-```
+```This file was lastly modified by a Python automator script```
