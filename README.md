@@ -2,7 +2,7 @@
 ###  I'm currently learning more about web3, contracts & solidity.
 ###  Mainly focused on frontend & backend development - and finding a place in web3
 ###  Current websites [Javel.dk](http://javel.dk) & [Apecode.io](https://apecode.io)
-###  My links [Here](https://white-wood-2317.on.fleek.co/u/1CY) (Also made this web3 app (Register yourself :)))
+###  My links [Here](https://ens-link-us.vercel.app/u/1CY) (Also made this web3 app (Register yourself :)))
 
 
 
