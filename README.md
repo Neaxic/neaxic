@@ -3,5 +3,5 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/Neaxic/VALUT/main/stars-background-blue-photoshop.jpg?token=GHSAT0AAAAAACRMCG2H2T4ALW4JSNAGZDWKZTDVEFA');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/Neaxic/VALUT/main/b4fa099a335efc4f9fb139db466f767e.gif?token=GHSAT0AAAAAACRMCG2HO26AAE5UG7C7GU6WZTDVMBQ');]{x0000}$}
 ```
