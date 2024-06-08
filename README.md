@@ -1,5 +1,5 @@
 ###  Mainly focused on fullstack development - and finding a place in web3.
-###  Current websites [SUPERGEMS.XYZ](https://supergems.xyz)
+###  Current wip [SUPERGEMS.XYZ](https://supergems.xyz)
 
 
 ```math
