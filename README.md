@@ -1,2 +1,2 @@
-###  Mainly focused on fullstack development - and finding a place in web3.
+###  Mainly focused on fullstack development.
 ###  Current wip [SUPERGEMS.XYZ](https://supergems.xyz)
